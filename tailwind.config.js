@@ -19,6 +19,7 @@ module.exports = {
       colors: {
         "bg-blue": "#2C7DFA",
         "shade-blue": "#3685FF",
+        "light-grey":"#D5E1EF",
         grey: "#7D889E",
         "dark-navy":"#1F314F",
         footer:"hsl(228, 45%, 44%)"
