@@ -29,6 +29,8 @@ module.exports = {
       },fontSize:{
         heading:["22px","28px"],
         p:["15px","19px"]
+      },boxShadow:{
+        qr: "0px 25px 25px rgba(0, 0, 0, 0.0476518)",
       }
     },
   },
