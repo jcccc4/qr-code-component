@@ -31,6 +31,8 @@ module.exports = {
         p:["15px","19px"]
       },boxShadow:{
         qr: "0px 25px 25px rgba(0, 0, 0, 0.0476518)",
+      },letterSpacing:{
+        p:"0.1875px"
       }
     },
   },
