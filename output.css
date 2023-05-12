@@ -638,6 +638,14 @@ video {
   font-weight: 700;
 }
 
+.font-normal {
+  font-weight: 400;
+}
+
+.tracking-p {
+  letter-spacing: 0.1875px;
+}
+
 .text-dark-navy {
   --tw-text-opacity: 1;
   color: rgb(31 49 79 / var(--tw-text-opacity));
